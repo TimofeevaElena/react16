@@ -1,0 +1,20 @@
+.card-content{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.filters{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.poisk-modal{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.cat{
+  color: rgba(0, 0, 0, 0.404);
+}
